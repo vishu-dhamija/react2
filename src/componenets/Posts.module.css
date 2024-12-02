@@ -1,0 +1,8 @@
+.post{
+    background-color: rgb(235, 180, 179);
+    color: rgb(30, 29, 29);
+    border-radius: 8px;
+    animation: animate-in 1s ease-out forwards;
+  }
+
+  
